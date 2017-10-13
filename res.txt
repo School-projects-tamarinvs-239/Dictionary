@@ -1,0 +1,8 @@
+English 0 70 20 18
+English all 20 10
+English all 20 9
+English all 20 0
+English all 20 12
+English 0 70 20 18
+English 0 80 20 17 Slava
+English 0 80 20 19 Slava
